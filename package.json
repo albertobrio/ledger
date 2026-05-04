@@ -1,0 +1,22 @@
+{
+    "name": "loop-ledger-service",
+    "version": "1.0.0",
+    "type": "module",
+    "scripts": {
+        "dev": "ts-node-dev src/index.ts",
+        "build": "tsc",
+        "start": "node dist/index.js"
+    },
+    "dependencies": {
+        "@fastify/rate-limit": "^7.6.0",
+        "fastify": "^4.26.0",
+        "mysql2": "^3.9.0",
+        "node-cron": "^4.2.1"
+    },
+    "devDependencies": {
+        "@types/node": "^25.6.0",
+        "@types/node-cron": "^3.0.11",
+        "ts-node-dev": "^2.0.0",
+        "typescript": "^5.3.0"
+    }
+}
