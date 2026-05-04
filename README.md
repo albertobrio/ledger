@@ -1,6 +1,5 @@
 # Loop Ledger Service
 
-[![CI](https://github.com/your-org/loop-ledger-service/actions/workflows/ci.yml/badge.svg)](https://github.com/your-org/loop-ledger-service/actions)
 [![Coverage](https://img.shields.io/codecov/c/github/your-org/loop-ledger-service)](https://codecov.io/gh/your-org/loop-ledger-service)
 [![Node.js](https://img.shields.io/badge/node-20.x-green)](https://nodejs.org/)
 [![TypeScript](https://img.shields.io/badge/typescript-5.x-blue)](https://www.typescriptlang.org/)
